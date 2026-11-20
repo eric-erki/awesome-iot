@@ -128,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
  - [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
+ - [NextJSON](https://nextjson.com/) - Free in-browser JSON formatter, validator and nested JSON parser, handy for inspecting MQTT and device JSON payloads.
 
 #### Miscellaneous
 
